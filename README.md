@@ -40,7 +40,7 @@ The EDA includes:
 - Correlation analysis
 
 📸 **EDA Visuals:**
-![EDA](images/pop.png)
+![EDA](images/Screenshot 2025-12-10 130150.png)
 ![EDA](images/genre.png)
 ![EDA](images/artist.png)
 
